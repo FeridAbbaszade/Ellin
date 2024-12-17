@@ -1,4 +1,0 @@
-C:\Users\MMMMMMMMM\Desktop\task\tasklar\tasklar\obj\Debug\net8.0\tasklar.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MMMMMMMMM\Desktop\task\tasklar\tasklar\obj\Debug\net8.0\tasklar.AssemblyInfoInputs.cache
-C:\Users\MMMMMMMMM\Desktop\task\tasklar\tasklar\obj\Debug\net8.0\tasklar.AssemblyInfo.cs
-C:\Users\MMMMMMMMM\Desktop\task\tasklar\tasklar\obj\Debug\net8.0\tasklar.csproj.CoreCompileInputs.cache

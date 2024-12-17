@@ -1,19 +1,14 @@
-﻿using System;
-
-namespace task1
+﻿namespace task2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int a = 24;
-            if (a % 4 == 0 || a % 5 == 0)
-            {
-                Console.WriteLine("bolunur");
-
-            }
-            else { Console.WriteLine("bolunmur"); }
+            int num = 74;
+            int teklik = num % 10;
+            int onluq = (num - teklik) / 10;
+            int result = teklik * 10 + onluq;
+            { Console.WriteLine(result); }
         }
-
     }
 }
